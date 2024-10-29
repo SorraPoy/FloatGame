@@ -1,0 +1,624 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1684709585324900, "dur":433, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585325337, "dur":36, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1684709585325393, "dur":13, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1684709585325406, "dur":350, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1684709585325767, "dur":246, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585326013, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421317, "dur":233, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421550, "dur":17, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421567, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421569, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421573, "dur":60, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421633, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421637, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421638, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421645, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421646, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421650, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421651, "dur":2, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421653, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421654, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421657, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421658, "dur":2, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421660, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421660, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421663, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421663, "dur":2, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421665, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421666, "dur":2, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421668, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421669, "dur":2, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421671, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421672, "dur":1, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421673, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421674, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421677, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421678, "dur":2, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421680, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421680, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421683, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421683, "dur":2, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421685, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421686, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421689, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421689, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421692, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421692, "dur":2, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421694, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421695, "dur":2, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421697, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421697, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421700, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421701, "dur":2, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421703, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421704, "dur":2, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421706, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421715, "dur":0, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585421728, "dur":541, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1684709585325887, "dur":145, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684709585326032, "dur":766, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684709585326798, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1684709585326816, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684709585330446, "dur":1336, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1684709585331793, "dur":74760, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684709585406555, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684709585406560, "dur":371, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684709585406937, "dur":14386, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684709585325859, "dur":164, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684709585326024, "dur":758, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684709585326782, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1684709585326802, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684709585327803, "dur":754, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1684709585328567, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684709585328581, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684709585328615, "dur":534, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684709585329154, "dur":6, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684709585329161, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684709585329164, "dur":689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684709585329862, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684709585329873, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684709585329875, "dur":413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684709585330298, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684709585330312, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684709585330315, "dur":1271, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684709585331596, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684709585331608, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684709585331612, "dur":1239, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684709585332856, "dur":5, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684709585332862, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684709585332865, "dur":971, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684709585333841, "dur":7, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684709585333848, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684709585333851, "dur":839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684709585334698, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684709585334707, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684709585334710, "dur":994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684709585335716, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684709585335727, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684709585335730, "dur":1178, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684709585336916, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684709585336925, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684709585336928, "dur":1163, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684709585338099, "dur":45149, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684709585383251, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684709585383258, "dur":898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684709585384166, "dur":37150, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684709585325863, "dur":164, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684709585326027, "dur":748, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684709585326776, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1684709585326883, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684709585380987, "dur":525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1684709585381522, "dur":39796, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684709585325935, "dur":105, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684709585326040, "dur":727, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684709585326771, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1684709585326869, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684709585357631, "dur":429, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1684709585358071, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1684709585358082, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684709585358085, "dur":828, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1684709585358921, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":4, "ts":1684709585358930, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684709585358934, "dur":884, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":4, "ts":1684709585359826, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1684709585359837, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684709585359842, "dur":541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1684709585360391, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1684709585360401, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684709585360405, "dur":406, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1684709585360818, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":4, "ts":1684709585360843, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684709585360846, "dur":968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":4, "ts":1684709585361821, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1684709585361832, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684709585361836, "dur":449, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1684709585362292, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":4, "ts":1684709585362376, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684709585362386, "dur":518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":4, "ts":1684709585362912, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/sharedassets5.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1684709585362921, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684709585362939, "dur":3021, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/sharedassets5.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1684709585365966, "dur":5, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1684709585365972, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684709585365975, "dur":3355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1684709585369339, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":4, "ts":1684709585369350, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684709585369354, "dur":3352, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":4, "ts":1684709585372722, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/resources.assets" }}
+,{ "pid":12345, "tid":4, "ts":1684709585372735, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684709585372738, "dur":1643, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/resources.assets" }}
+,{ "pid":12345, "tid":4, "ts":1684709585374394, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1684709585374478, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684709585374481, "dur":885, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1684709585375373, "dur":45931, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684709585325898, "dur":136, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684709585326034, "dur":735, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684709585326771, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1684709585326880, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684709585373436, "dur":836, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1684709585374289, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":5, "ts":1684709585374358, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684709585374363, "dur":888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":5, "ts":1684709585375260, "dur":46046, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684709585325884, "dur":145, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684709585326029, "dur":741, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684709585326771, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1684709585326837, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684709585356770, "dur":603, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1684709585357383, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684709585357404, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684709585357408, "dur":1427, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684709585358843, "dur":166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684709585359011, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684709585359015, "dur":922, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684709585359945, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684709585359954, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684709585359958, "dur":923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684709585360888, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684709585360899, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684709585360903, "dur":1314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684709585362226, "dur":58497, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684709585420726, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684709585420731, "dur":502, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684709585421239, "dur":78, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684709585325834, "dur":184, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684709585326019, "dur":766, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684709585326785, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1684709585326810, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684709585328114, "dur":542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1684709585328667, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684709585328697, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684709585328732, "dur":681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684709585329423, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684709585329436, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684709585329439, "dur":750, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684709585330198, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684709585330211, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684709585330214, "dur":821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684709585331045, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684709585331070, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684709585331074, "dur":735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684709585331818, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684709585331828, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684709585331831, "dur":1026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684709585332873, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684709585332951, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684709585332956, "dur":1043, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684709585334007, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684709585334018, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684709585334021, "dur":1211, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684709585335242, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684709585335254, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684709585335258, "dur":1396, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684709585336664, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684709585336677, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684709585336680, "dur":1346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684709585338035, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684709585338045, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684709585338049, "dur":549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684709585338612, "dur":42929, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684709585381544, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684709585381550, "dur":559, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684709585382118, "dur":39264, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684709585325914, "dur":123, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684709585326038, "dur":737, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684709585326775, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1684709585326829, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684709585330988, "dur":701, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1684709585331700, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684709585331711, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684709585331714, "dur":1675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684709585333398, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684709585333408, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684709585333411, "dur":881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684709585334306, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684709585334317, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684709585334320, "dur":1116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684709585335445, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684709585335457, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684709585335460, "dur":1397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684709585336867, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684709585336877, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684709585336881, "dur":1579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684709585338468, "dur":40103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684709585378691, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684709585378696, "dur":1045, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684709585379756, "dur":41553, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684709585325950, "dur":94, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684709585326044, "dur":730, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684709585326774, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1684709585326800, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684709585327905, "dur":617, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1684709585328528, "dur":7, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684709585328536, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684709585328649, "dur":642, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684709585329296, "dur":6, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684709585329305, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684709585329312, "dur":740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684709585330061, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684709585330073, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684709585330091, "dur":589, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684709585330690, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684709585330701, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684709585330705, "dur":718, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684709585331432, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684709585331445, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684709585331449, "dur":1140, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684709585332606, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684709585332618, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684709585332621, "dur":1225, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684709585333855, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684709585333866, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684709585333870, "dur":1122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684709585335000, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684709585335011, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684709585335015, "dur":1138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684709585336161, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684709585336178, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684709585336181, "dur":1020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684709585337211, "dur":44465, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684709585381689, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684709585381692, "dur":545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684709585382246, "dur":39133, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684709585325962, "dur":88, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684709585326050, "dur":721, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684709585326773, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1684709585326866, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684709585357424, "dur":795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1684709585358228, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":10, "ts":1684709585358239, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684709585358243, "dur":2373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":10, "ts":1684709585360630, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":10, "ts":1684709585360642, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684709585360645, "dur":2466, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":10, "ts":1684709585363119, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/sharedassets4.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1684709585363128, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684709585363131, "dur":2992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/sharedassets4.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1684709585366132, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1684709585366142, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684709585366145, "dur":3865, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1684709585370018, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":10, "ts":1684709585370093, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684709585370096, "dur":630, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":10, "ts":1684709585370734, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1684709585370744, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684709585370750, "dur":2681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1684709585373446, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/level2" }}
+,{ "pid":12345, "tid":10, "ts":1684709585373457, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684709585373461, "dur":937, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/level2" }}
+,{ "pid":12345, "tid":10, "ts":1684709585374407, "dur":46908, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684709585325975, "dur":78, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684709585326054, "dur":718, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684709585326773, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1684709585326811, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684709585330677, "dur":518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1684709585331211, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1684709585331225, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684709585331228, "dur":866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1684709585332102, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1684709585332112, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684709585332116, "dur":1011, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1684709585333135, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1684709585333145, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684709585333148, "dur":972, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1684709585334130, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1684709585334142, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684709585334161, "dur":1089, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1684709585335259, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1684709585335323, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684709585335327, "dur":1370, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1684709585336707, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1684709585336717, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684709585336721, "dur":1410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1684709585338139, "dur":82782, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":11, "ts":1684709585420923, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684709585420927, "dur":351, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":11, "ts":1684709585421283, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":11, "ts":1684709585421284, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1684709585325989, "dur":67, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1684709585326056, "dur":720, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1684709585326776, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1684709585326837, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1684709585337451, "dur":942, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1684709585338400, "dur":44764, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":12, "ts":1684709585383167, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1684709585383173, "dur":724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":12, "ts":1684709585383910, "dur":37461, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1684709585326003, "dur":57, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1684709585326060, "dur":766, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1684709585326826, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":13, "ts":1684709585326878, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1684709585380765, "dur":8833, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":13, "ts":1684709585389606, "dur":31774, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1684709585326015, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1684709585326015, "dur":751, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1684709585326770, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":14, "ts":1684709585326772, "dur":19, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1684709585326793, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/app.info" }}
+,{ "pid":12345, "tid":14, "ts":1684709585326796, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1684709585327211, "dur":883, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/app.info" }}
+,{ "pid":12345, "tid":14, "ts":1684709585328095, "dur":7, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":14, "ts":1684709585328102, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1684709585328170, "dur":1566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":14, "ts":1684709585329747, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1684709585329757, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1684709585329760, "dur":512, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1684709585330282, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1684709585330294, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1684709585330298, "dur":822, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1684709585331135, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1684709585331147, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1684709585331151, "dur":1226, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1684709585332382, "dur":4, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1684709585332388, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1684709585332390, "dur":1261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1684709585333668, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1684709585333691, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1684709585333698, "dur":923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1684709585334631, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1684709585334641, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1684709585334644, "dur":1159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1684709585335808, "dur":5, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1684709585335814, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1684709585335816, "dur":1454, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1684709585337280, "dur":53315, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":14, "ts":1684709585390598, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1684709585390603, "dur":453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":14, "ts":1684709585391064, "dur":30305, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1684709585326046, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1684709585326049, "dur":724, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1684709585326773, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":15, "ts":1684709585326882, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1684709585380574, "dur":619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":15, "ts":1684709585381205, "dur":40102, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1684709585326073, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1684709585326073, "dur":745, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1684709585326820, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":16, "ts":1684709585326872, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1684709585372244, "dur":860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":16, "ts":1684709585373113, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/level5" }}
+,{ "pid":12345, "tid":16, "ts":1684709585373124, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1684709585373127, "dur":792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/level5" }}
+,{ "pid":12345, "tid":16, "ts":1684709585373926, "dur":6, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/level1" }}
+,{ "pid":12345, "tid":16, "ts":1684709585373933, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1684709585373935, "dur":1041, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/level1" }}
+,{ "pid":12345, "tid":16, "ts":1684709585374986, "dur":46329, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1684709585326099, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1684709585326099, "dur":713, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1684709585326814, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":17, "ts":1684709585326829, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1684709585330744, "dur":725, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":17, "ts":1684709585331475, "dur":6, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684709585331482, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1684709585331484, "dur":940, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684709585332433, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684709585332444, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1684709585332447, "dur":1028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684709585333480, "dur":5, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684709585333486, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1684709585333488, "dur":767, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684709585334260, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684709585334270, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1684709585334272, "dur":1381, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684709585335662, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684709585335673, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1684709585335676, "dur":1317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684709585336999, "dur":5, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684709585337004, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1684709585337007, "dur":1486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684709585338502, "dur":1499, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684709585340003, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1684709585340010, "dur":467, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684709585340485, "dur":3099, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684709585343587, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1684709585343594, "dur":443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684709585344046, "dur":8148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684709585352196, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1684709585352202, "dur":495, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684709585352705, "dur":413, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684709585353135, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1684709585353139, "dur":352, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684709585353499, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684709585353510, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1684709585353514, "dur":404, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684709585353927, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684709585353937, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1684709585353941, "dur":1878, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684709585355831, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684709585355842, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1684709585355846, "dur":1380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684709585357236, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684709585357246, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1684709585357250, "dur":1866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684709585359129, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684709585359140, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1684709585359143, "dur":3081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684709585362233, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":17, "ts":1684709585362307, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1684709585362549, "dur":497, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":17, "ts":1684709585363055, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":17, "ts":1684709585363065, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1684709585363068, "dur":3166, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":17, "ts":1684709585366249, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":17, "ts":1684709585366288, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1684709585366291, "dur":2724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":17, "ts":1684709585369024, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":17, "ts":1684709585369037, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1684709585369041, "dur":1497, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":17, "ts":1684709585370547, "dur":1098, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":17, "ts":1684709585371666, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1684709585371671, "dur":2097, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":17, "ts":1684709585373779, "dur":7, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/level1.resS" }}
+,{ "pid":12345, "tid":17, "ts":1684709585373788, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1684709585373791, "dur":1239, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/level1.resS" }}
+,{ "pid":12345, "tid":17, "ts":1684709585375035, "dur":46275, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1684709585326109, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1684709585326109, "dur":702, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1684709585326812, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":18, "ts":1684709585326842, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1684709585337738, "dur":4167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":18, "ts":1684709585341916, "dur":39290, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":18, "ts":1684709585381210, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1684709585381215, "dur":666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":18, "ts":1684709585381891, "dur":39413, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1684709585326130, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1684709585326130, "dur":677, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1684709585326809, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":19, "ts":1684709585326833, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1684709585331318, "dur":667, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":19, "ts":1684709585331996, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1684709585332009, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1684709585332012, "dur":1022, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1684709585333038, "dur":5, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1684709585333044, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1684709585333046, "dur":1036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1684709585334087, "dur":6, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1684709585334094, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1684709585334096, "dur":899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1684709585335003, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1684709585335014, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1684709585335032, "dur":1089, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1684709585336126, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1684709585336142, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1684709585336146, "dur":1019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1684709585337171, "dur":5, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1684709585337177, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1684709585337179, "dur":1221, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1684709585338409, "dur":40162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":19, "ts":1684709585378671, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1684709585378690, "dur":1045, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":19, "ts":1684709585379742, "dur":41566, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1684709585326145, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1684709585326146, "dur":663, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1684709585326811, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":20, "ts":1684709585326825, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1684709585330572, "dur":901, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":20, "ts":1684709585331479, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1684709585331495, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1684709585331497, "dur":777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1684709585332286, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1684709585332297, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1684709585332301, "dur":1427, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1684709585333739, "dur":189, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1684709585333930, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1684709585333933, "dur":1308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1684709585335249, "dur":6, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1684709585335255, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1684709585335258, "dur":1280, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1684709585336542, "dur":5, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1684709585336548, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1684709585336551, "dur":1675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1684709585338234, "dur":2489, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":20, "ts":1684709585340726, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1684709585340731, "dur":724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":20, "ts":1684709585341464, "dur":3721, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":20, "ts":1684709585345187, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1684709585345192, "dur":6735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":20, "ts":1684709585351932, "dur":29340, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":20, "ts":1684709585381275, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1684709585381280, "dur":641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":20, "ts":1684709585381931, "dur":39442, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1684709585326159, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1684709585326159, "dur":679, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1684709585326838, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland.exe" }}
+,{ "pid":12345, "tid":21, "ts":1684709585326865, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1684709585372066, "dur":1137, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland.exe" }}
+,{ "pid":12345, "tid":21, "ts":1684709585373212, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/level3" }}
+,{ "pid":12345, "tid":21, "ts":1684709585373221, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1684709585373225, "dur":1150, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/level3" }}
+,{ "pid":12345, "tid":21, "ts":1684709585374384, "dur":7, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":21, "ts":1684709585374393, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1684709585374396, "dur":848, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":21, "ts":1684709585375252, "dur":46062, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1684709585326172, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1684709585326172, "dur":664, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1684709585326836, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":22, "ts":1684709585326880, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1684709585372358, "dur":814, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":22, "ts":1684709585373181, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/level4" }}
+,{ "pid":12345, "tid":22, "ts":1684709585373191, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1684709585373194, "dur":993, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/level4" }}
+,{ "pid":12345, "tid":22, "ts":1684709585374193, "dur":4, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/level0" }}
+,{ "pid":12345, "tid":22, "ts":1684709585374198, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1684709585374200, "dur":837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/level0" }}
+,{ "pid":12345, "tid":22, "ts":1684709585375046, "dur":46270, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1684709585326185, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1684709585326185, "dur":617, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1684709585326804, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":23, "ts":1684709585326815, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1684709585330366, "dur":1118, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":23, "ts":1684709585331499, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1684709585331527, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1684709585331531, "dur":1266, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1684709585332816, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1684709585332829, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1684709585332833, "dur":1076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1684709585333919, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1684709585333932, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1684709585333936, "dur":1186, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1684709585335133, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1684709585335150, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1684709585335153, "dur":1279, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1684709585336444, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1684709585336460, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1684709585336464, "dur":1127, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1684709585337601, "dur":45809, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":23, "ts":1684709585383415, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1684709585383421, "dur":841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":23, "ts":1684709585384268, "dur":37073, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1684709585326198, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1684709585326198, "dur":628, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1684709585326827, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":24, "ts":1684709585326839, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1684709585341386, "dur":14749, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":24, "ts":1684709585356142, "dur":5, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":24, "ts":1684709585356148, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1684709585356151, "dur":993, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":24, "ts":1684709585357150, "dur":6, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":24, "ts":1684709585357157, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1684709585357160, "dur":1356, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":24, "ts":1684709585358521, "dur":5, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":24, "ts":1684709585358527, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1684709585358529, "dur":815, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":24, "ts":1684709585359349, "dur":6, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":24, "ts":1684709585359355, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1684709585359358, "dur":2059, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":24, "ts":1684709585361422, "dur":4, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":24, "ts":1684709585361427, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1684709585361429, "dur":2138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":24, "ts":1684709585363572, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":24, "ts":1684709585363671, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1684709585363674, "dur":2426, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":24, "ts":1684709585366106, "dur":4, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":24, "ts":1684709585366111, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1684709585366113, "dur":1472, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":24, "ts":1684709585367590, "dur":4, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":24, "ts":1684709585367595, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1684709585367598, "dur":282, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":24, "ts":1684709585367884, "dur":7, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":24, "ts":1684709585367892, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1684709585367894, "dur":21413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"G:/KMUTT/3_2/CMM342 Game Design/FloatGame/Floatland_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":24, "ts":1684709585389314, "dur":32064, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684709585422668, "dur":958, "ph":"X", "name": "ProfilerWriteOutput" }
+,

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6e55fba93c4ee0b4b84ace5e9ce35f12
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Anakotmai
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c0d87aab323f8ae478d4164b12c28050, type: 3}
+  - {fileID: 12800000, guid: 40e98eb65180f2643963bdf6eb2877c4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
